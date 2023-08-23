@@ -76,7 +76,7 @@ export default function LoginPage(){
     <div>
       <NavBar />
       <section className="login-block">
-        <div className="container">
+        <div className="container-sm">
             <div className="row ">
                 <div className="col login-sec">
                     <h2 className="text-center">Login Now</h2>
